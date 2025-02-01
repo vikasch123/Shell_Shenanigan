@@ -68,6 +68,11 @@ Enhances the `cd` command:
 - Random compliments on shell startup 😍.
 - Custom animated shutdown alias 🔄.
 
+## Screenshots
+![Shell appearance](image.png)
+
+![Looks and feel](image-1.png)
+
 ## Plugins Used 🔌
 - **Zsh Autosuggestions 🤖**: Suggests previously used commands.
 - **Zsh Syntax Highlighting 🎨**: Highlights commands for better readability.
